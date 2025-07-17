@@ -45,6 +45,7 @@ Some components are to be hand soldered: resistors and the power switch. The "ad
 
 ---
 | Item | Quantity | Price | Link |
+|----------|------------|----------|--------|
 | JS202011JCQN | 1 | 0.84 | https://www.digikey.com/en/products/detail/c-k/JS202011JCQN/6137630?s=N4IgTCBcDaIFIGUwAYUEY1wMIEUByIAugL5A |
 | 0805 resistors | 1 | depends but I have them | N/A |
 | tactile switches | 2 | again, depends but I have them | https://www.digikey.com/en/products/detail/cts-electrocomponents/222AMVBAR/5227982 | 
