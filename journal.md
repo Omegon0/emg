@@ -31,11 +31,9 @@ Time spent: 2h
 
 # July 15th
 
-Started BOM. For the IC footprints that I used, I don't know the pitch... I'll need to fix everything with the INA128.
+Made BOM from scratch because I didn't know Kicad could do it. For the IC footprints that I used, I don't know the pitch... I'll need to fix everything with the INA128.
 
-Time spent: 3h
-
-![BOM](https://github.com/Omegon0/emg/blob/main/bom.jpg?raw=true)
+Time spent: 4h
 
 # July 16th
 
@@ -68,6 +66,13 @@ Time spent: 6h
 
 Switching the project to Highway so I can get more funding. 
 I can now get everything assembled in PCBA ideally (except the resistors because JLC genuinely doesn't have most of them)
-So I updated the BOM (wait if you're reading this it means I'm doing it rn)
+BOM updated to have every part
+Got renders of the PCB
+Also there's no case/CAD because electrode placement varies from person to person. 
 
-**Total time spent: 20h**
+![render1](https://github.com/Omegon0/emg/blob/main/render1.jpg?raw=true)
+![render2](https://github.com/Omegon0/emg/blob/main/render2.jpg?raw=true)
+
+Time spent: 4h
+
+**Total time spent: 25h**
