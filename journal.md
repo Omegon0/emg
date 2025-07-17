@@ -68,6 +68,6 @@ Time spent: 6h
 
 Switching the project to Highway so I can get more funding. 
 I can now get everything assembled in PCBA ideally (except the resistors because JLC genuinely doesn't have most of them)
-So I updated the BOM (wait hold up)
+So I updated the BOM (wait if you're reading this it means I'm doing it rn)
 
 **Total time spent: 20h**
