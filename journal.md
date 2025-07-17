@@ -43,12 +43,14 @@ Done with BOM, fixed everything. But there were some crazy high MOQs so I found 
 
 Some components are to be hand soldered: resistors and the power switch. The "additional BOM" is here:
 
+---
 | Item | Quantity | Price | Link |
 | JS202011JCQN | 1 | 0.84 | https://www.digikey.com/en/products/detail/c-k/JS202011JCQN/6137630?s=N4IgTCBcDaIFIGUwAYUEY1wMIEUByIAugL5A |
 | 0805 resistors | 1 | depends but I have them | N/A |
 | tactile switches | 2 | again, depends but I have them | https://www.digikey.com/en/products/detail/cts-electrocomponents/222AMVBAR/5227982 | 
 | ESP32 S3 N16 | 1 | 5.92 | https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3-WROOM-1-N16/16162647 |
 | SD0805S020S0R5 | 1 | 0.34 | https://www.digikey.com/en/products/detail/kyocera-avx/SD0805S020S0R5/3749524 | 
+---
 
 Also J2 is supposed to be a solderable header so nothing is needed there
 
@@ -63,6 +65,8 @@ Time spent: 6h
 
 # July 17
 
-
+Switching the project to Highway so I can get more funding. 
+I can now get everything assembled in PCBA ideally (except the resistors because JLC genuinely doesn't have most of them)
+So I updated the BOM (wait hold up)
 
 **Total time spent: 20h**
