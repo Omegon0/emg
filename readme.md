@@ -32,3 +32,22 @@ Why did I make this? Because it's cool. Also, current medical EMG procedures are
 |U5                    |1   |AP2112K-3.3                |AP2112K-3.3                |Package_TO_SOT_SMD:SOT-23-5                                   |600mA low dropout linear regulator, with enable pin, 3.8V-6V input voltage range, 3.3V fixed positive output, SOT-23-5|Digikey|https://www.digikey.com/en/products/detail/diodes-incorporated/AP2112K-3-3TRG1/4470746?s=N4IgTCBcDaIIIAUwEZlgNIFoDMA6bIAugL5A                       |
 |U6                    |1   |ESP32-S3-WROOM-1-N16R2     |ESP32-S3-WROOM-1-N16R2     |RF_Module:ESP32-S3-WROOM-1                                    |                                                                                                                      |Digikey|https://www.digikey.com/en/products/detail/espressif-systems/esp32-s3-wroom-1-n16r8/16162642                                                        |
 
+
+# Schematic and PCB
+
+Use example circuits. Otherwise you might end up learning too much electrical engineering and that's not good! 
+Hardest part was figuring out the footprints because most of the components I used were not in Kicad and its just annoying
+PCB was wired up using FreeRouting
+
+# Firmware
+
+Just used the analog read program built into Arduino IDE to collect data
+
+# CAD
+
+This depends HEAVILY on the person and its strongly recommended to use photogrammetry to figure it out properly. Also the electrode placement will vary from person to person. 
+
+![Schematic](https://github.com/Omegon0/emg/blob/main/schematic.jpg?raw=true)
+![PCB](https://github.com/Omegon0/emg/blob/main/pcb.jpg?raw=true)
+![render1](https://github.com/Omegon0/emg/blob/main/render1.jpg?raw=true)
+![render2](https://github.com/Omegon0/emg/blob/main/render2.jpg?raw=true)
